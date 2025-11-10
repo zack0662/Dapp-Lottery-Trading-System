@@ -10,9 +10,9 @@ Dapp using Solidity and React
 
 cd contracts  
 npx hardhat compile  # 编译合约  
-npx hardhat run scripts/deploy.ts --network ganache  # 部署合约
+npx hardhat run scripts/deploy.ts --network ganache  # 部署合约  
 
-cd ..
-cd frontend
-npm start # 运行前端
+cd ..  
+cd frontend  
+npm start # 运行前端  
 
